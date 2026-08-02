@@ -1,16 +1,37 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=900&color=0BE53C&center=true&vCenter=true&width=1000&lines=Centro+Cultural+de+Ciberseguridad+-+UNI;Construimos+el+futuro+digital;Investigamos+para+proteger;Unidos+por+la+Ciberseguridad;Del+conocimiento+al+desarrollo" />
+</p>
 
-<!--
-**Centroculturaldeciberseguridad-UNI/Centroculturaldeciberseguridad-UNI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido al repositorio oficial del **Área de Investigación y Proyectos** del Centro Cultural de Ciberseguridad de la Universidad Nacional de Ingeniería (CCC-UNI).
 
-Here are some ideas to get you started:
+Aquí publicamos proyectos desarrollados por nuestros integrantes con fines académicos, de investigación e innovación tecnológica, promoviendo el aprendizaje colaborativo y el desarrollo de soluciones orientadas a fortalecer la ciberseguridad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Nuestras líneas de trabajo
+
+- 🔵 Blue Team
+- 🔴 Red Team
+- 🟣 Purple Team
+- 🤖 Inteligencia Artificial aplicada a la Ciberseguridad
+- 🌐 Seguridad en Redes
+- ☁️ Cloud Security
+- 📱 Seguridad en Aplicaciones
+- 🔍 Threat Intelligence
+- 🧪 Malware Analysis
+- 🛠️ Desarrollo de herramientas de ciberseguridad
+
+## En este repositorio encontrarás
+
+- Proyectos de investigación
+- Herramientas desarrolladas por el centro
+- Laboratorios y prácticas
+- Recursos educativos
+- Documentación técnica
+- Proyectos colaborativos
+
+## Contribuciones
+
+Los proyectos son desarrollados por estudiantes e investigadores del Centro Cultural de Ciberseguridad - UNI. Las contribuciones son bienvenidas siguiendo las normas de cada repositorio.
+
+---
+
+**Centro Cultural de Ciberseguridad - Universidad Nacional de Ingeniería**
