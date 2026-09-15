@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2500&pause=900&color=0BE53C&center=true&vCenter=true&width=1000&lines=CENTRO+CULTURAL+DE+CIBERSEGURIDAD+-+UNI;CONSTRUIMOS+EL+FUTURO+DIGITAL;INVESTIGAMOS+PARA+PROTEGER;UNIDOS+POR+LA+CIBERSEGURIDAD;DEL+CONOCIMIENTO+AL+DESARROLLO" />
+  <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=36&duration=2500&pause=900&color=0BE53C&center=true&vCenter=true&width=1000&lines=CENTRO+CULTURAL+DE+CIBERSEGURIDAD+-+UNI;CONSTRUIMOS+EL+FUTURO+DIGITAL;INVESTIGAMOS+PARA+PROTEGER;UNIDOS+POR+LA+CIBERSEGURIDAD;DEL+CONOCIMIENTO+AL+DESARROLLO" />
 </p>
 
 Bienvenido al repositorio oficial del **Área de Investigación y Proyectos** del Centro Cultural de Ciberseguridad de la Universidad Nacional de Ingeniería (CCC-UNI).
